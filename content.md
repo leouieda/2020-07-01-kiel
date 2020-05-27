@@ -3,13 +3,15 @@
 <div class="centered">
 <div>
 
-# A slightly long<br>talk title
+# Geophysical research powered by open-source
 
 ## [Leonardo Uieda](https://www.leouieda.com)
 
 [<i class="fab fa-twitter fa-fw"></i> @leouieda](https://twitter.com/leouieda)
 
-*Location | Date*
+Institute of Geophysics and Geoinformatics | Technische Universität Bergakademie Freiberg
+
+4 June 2020
 
 <div class="container">
 <div class="col-left">
@@ -34,9 +36,35 @@
 <div class="centered">
 <div>
 
-# Background
+# A bit of background
 
 </div>
+</div>
+
+---
+
+<!-- .slide: data-background-video="video/where-has-leo-been.mp4" data-background-size="cover" -->
+
+<div class="r-stretch bottom-left">
+
+BSc in Geophysics from Universidade de São Paulo
+|
+MSc + PhD in Geophysics from Observatório Nacional
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/first-contact-with-c.jpg" data-background-size="cover" -->
+
+---
+
+<!-- .slide: data-background-video="video/run-away-to-hawaii.mp4" data-background-size="cover" -->
+
+<div class="r-stretch bottom-left">
+
+Postdoct at University of Hawai'i working on the Generic Mapping Tools (GMT)
+
 </div>
 
 ---
