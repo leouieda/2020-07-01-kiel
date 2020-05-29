@@ -78,11 +78,100 @@ The code actually compiled on my first try!
 
 ---
 
-Tesseroids and Fatiando
+<!-- .slide: data-background-image="img/paleomagnetism-field-work.jpg" data-background-size="cover" -->
 
-A bit of history about the projects but not specific use cases.
+<div class="r-stretch bottom-left">
 
-Talk about the current state of fatiando and Santiago's involvement.
+Brief stint as a paleomagnetist getting stung by hornets.
+Don't judge the hair, I was 19.
+
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+## Project #1
+
+<img src="img/tesseroids.svg" style="width:80%; margin: 5% 0;">
+
+*C command-line programs for gravity modelling*
+
+[`tesseroids.leouieda.com`](https://tesseroids.leouieda.com)
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col-left">
+
+
+## Support for future GOCE data
+
+<br>
+
+Collaboration between
+<br>
+Naomi Ussami (USP),
+<br>
+Carla Braitenberg (Trieste),
+<br>
+and  Valéria Barbosa (ON).
+
+</div>
+<div class="col-right">
+
+<img src="img/tesseroid-modelling.svg">
+
+</div>
+</div>
+
+<div class="bottom-left">
+
+Uieda, Barbosa, Braitenberg (2016) |
+doi:[10.1190/geo2015-0204.1](https://doi.org/10.1190/geo2015-0204.1)
+
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+## Project #2
+
+<img src="img/fatiando.svg" style="width:80%; margin: 5% 0;">
+
+[`www.fatiando.org`](https://www.fatiando.org)
+
+</div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="cover" -->
+
+<div class="r-stretch bottom-right">
+
+Started in 2010 as a mixed bag of geophysics in Python.
+<br>
+First website and example gallery from 2011. (Google+ &#x1f602;)
+
+</div>
+
+---
+
+<!-- .slide: data-background-video="video/seismic-waves-demo.mp4" data-background-size="cover" -->
+
+<div class="r-stretch bottom-right">
+
+Used extensively in **teaching** at [UERJ](https://www.uerj.br/) and
+**research** at the [PINGA Lab](https://www.pinga-lab.org/).
+
+</div>
 
 ---
 
@@ -117,6 +206,40 @@ Something about the compgeolab. How we're building stuff on top of Fatiando.
 What the research vision is the for the next couple of years.
 Scaling up gravity and magnetic data processing using modern tools and a blend
 of machine learning.
+
+---
+
+<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="cover" -->
+
+<div class="r-stretch bottom-right">
+
+In 2018 started a complete rewrite of Fatiando a Terra,
+<br>
+breaking into separate tools.
+
+</div>
+
+---
+
+<div class="container">
+<div class="col-left">
+    <img src="img/santisoler.jpg" style="border-radius: 50%; width: 80%;">
+    <p style="text-align: center;">
+    <a href="https://santisoler.github.io/">Santiago Soler<br>@santisoler</a>
+    </p>
+</div>
+<div class="col-right">
+
+## Breath of fresh air
+
+* PhD student from Argentina
+* Collaborating since 2015
+* Inspired writing down my process
+* Leading some of our new packages (Harmonica and RockHound)
+* Main force behind many new developments
+
+</div>
+</div>
 
 ---
 
