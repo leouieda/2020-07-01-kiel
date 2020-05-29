@@ -31,7 +31,6 @@ Institute of Geophysics and Geoinformatics | Technische Universität Bergakademi
 
 ---
 
-
 <div class="centered">
 <div class="huge">
 
@@ -81,18 +80,13 @@ The code actually compiled on my first try!
 
 Tesseroids and Fatiando
 
+A bit of history about the projects but not specific use cases.
+
+Talk about the current state of fatiando and Santiago's involvement.
+
 ---
 
 <!-- .slide: data-background-video="video/run-away-to-hawaii.mp4" data-background-size="cover" -->
-
-<div class="container">
-<div class="col-large">
-</div>
-<div class="col-small">
-<img src="img/gmt-white.png" class="fragment">
-</div>
-</div>
-
 
 <div class="r-stretch bottom-left">
 
@@ -102,7 +96,10 @@ Postdoct at University of Hawai'i working on the Generic Mapping Tools (GMT)
 
 ---
 
-A bit about GMT
+A bit about GMT and my involvement. Something about PyGMT and maybe that
+picture of the steering council.
+
+Our NSF grant and the next challenges facing GMT.
 
 ---
 
@@ -116,7 +113,10 @@ Lecturer of Geophysics at the University of Liverpool from 2019
 
 ---
 
-Something about the compgeolab
+Something about the compgeolab. How we're building stuff on top of Fatiando.
+What the research vision is the for the next couple of years.
+Scaling up gravity and magnetic data processing using modern tools and a blend
+of machine learning.
 
 ---
 
@@ -144,13 +144,12 @@ Machine learning is open-source (scikit-learn, tensorflow, pytorch).
 
 ---
 
-Something about the spread sheet bug.
+Something about the spreadsheet bug.
 
 A bit about the recent covid C code.
 
-Invest is quality from the start.
-
-Much easier to start with good practices than to implement them later.
+But also positive sides. Good software gets used. Used software generates
+citations and collaborations.
 
 ---
 
@@ -165,6 +164,24 @@ Much easier to start with good practices than to implement them later.
 
 </div>
 </div>
+
+---
+
+Tesseroids usage for GOCE grids.
+
+Building on top of previous work.
+No hunting for bugs in already tested code.
+Design for reuse.
+Rapid prototyping for Moho inversion (idea to results in couple of days).
+Even moderately documented generated use.
+
+Our recent work on building scalable equivalent layers.
+What do we need to make this work?
+Based on Verde so talk a bit about it.
+Software + ML + distributed.
+Santi's work on block eql.
+Work on cross-validation.
+Next steps with Dask and Santi's work on iterative EQL.
 
 ---
 
@@ -189,6 +206,10 @@ Invest in software from the start.
 Encourage training.
 
 Value software work in evaluations.
+
+Software Carpentry and the SSI.
+
+Get involved in existing projects (learn by helping).
 
 ---
 
