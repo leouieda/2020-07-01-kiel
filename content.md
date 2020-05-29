@@ -31,6 +31,19 @@ Institute of Geophysics and Geoinformatics | Technische Universität Bergakademi
 
 ---
 
+
+<div class="centered">
+<div class="huge">
+
+1. Why software **quality** is important
+2. How investing in software benefits **research**
+3. What **you** can do about it today
+
+</div>
+</div>
+
+---
+
 <!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
@@ -38,18 +51,19 @@ Institute of Geophysics and Geoinformatics | Technische Universität Bergakademi
 
 # A bit of background
 
+*A tale of three projects*
+
 </div>
 </div>
 
 ---
 
-<!-- .slide: data-background-video="video/where-has-leo-been.mp4" data-background-size="cover" -->
+<!-- .slide: data-background-video="video/brasil-sao-paulo-rio.mp4" data-background-size="cover" -->
 
 <div class="r-stretch bottom-left">
 
-BSc in Geophysics from Universidade de São Paulo
-|
-MSc + PhD in Geophysics from Observatório Nacional
+BSc in Geophysics from Universidade de São Paulo |
+MSc + PhD in Geophysics from Observatório Nacional in Rio
 
 </div>
 
@@ -57,9 +71,28 @@ MSc + PhD in Geophysics from Observatório Nacional
 
 <!-- .slide: data-background-image="img/first-contact-with-c.jpg" data-background-size="cover" -->
 
+<div class="r-stretch bottom-right">
+
+The code actually compiled on my first try!
+
+</div>
+
+---
+
+Tesseroids and Fatiando
+
 ---
 
 <!-- .slide: data-background-video="video/run-away-to-hawaii.mp4" data-background-size="cover" -->
+
+<div class="container">
+<div class="col-large">
+</div>
+<div class="col-small">
+<img src="img/gmt-white.png" class="fragment">
+</div>
+</div>
+
 
 <div class="r-stretch bottom-left">
 
@@ -69,55 +102,93 @@ Postdoct at University of Hawai'i working on the Generic Mapping Tools (GMT)
 
 ---
 
-# Normal slide
+A bit about GMT
 
-<div class="container">
-<div class="col-large">
+---
 
-![](img/title-slide-background.jpg)
+<!-- .slide: data-background-video="video/hawaii-to-liverpool.mp4" data-background-size="cover" -->
 
-</div>
-<div class="col-small">
+<div class="r-stretch bottom-left">
 
-A image with:
-
-* A bullet point
-* description of it
-
-</div>
-</div>
-
-<div class="r-stretch bottom-right">
-
-Image from [this place](http://www.leouieda.com)
+Lecturer of Geophysics at the University of Liverpool from 2019
 
 </div>
 
 ---
 
-# Something else
+Something about the compgeolab
 
-<div class="r-stretch bottom-right">
+---
 
-Another citation or funny note.
+I've been immersed in scientific software for the last 12 years.
 
+The importance of open-source software in science.
+
+Everyone wants a piece of the Python cake.
+
+Machine learning is open-source (scikit-learn, tensorflow, pytorch).
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+# Why quality is important
+
+*Horror stories of public backlash*
+
+</div>
 </div>
 
 ---
 
-<!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
+Something about the spread sheet bug.
 
-<div class="r-stretch quote">
+A bit about the recent covid C code.
 
-"Something or other"
+Invest is quality from the start.
+
+Much easier to start with good practices than to implement them later.
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+# Good software benefits science
+
+*Success stories of past, present, and future*
 
 </div>
+</div>
 
-<div class="bottom-left">
+---
 
-Another citation or funny note.
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+# What you <br> can do now
+
+*(with limited time and money)*
 
 </div>
+</div>
+
+---
+
+What PIs, postdocs and students can do to make a difference.
+
+Invest in software from the start.
+
+Encourage training.
+
+Value software work in evaluations.
 
 ---
 
