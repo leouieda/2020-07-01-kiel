@@ -158,7 +158,7 @@ citations and collaborations.
 <div class="centered">
 <div>
 
-# Good software benefits science
+# Good software <br> benefits science
 
 *Success stories of past, present, and future*
 
@@ -210,6 +210,18 @@ Value software work in evaluations.
 Software Carpentry and the SSI.
 
 Get involved in existing projects (learn by helping).
+
+---
+
+You can get credit for this work. JOSS.
+
+---
+
+## Main takeaways
+
+1.
+2.
+3.
 
 ---
 
