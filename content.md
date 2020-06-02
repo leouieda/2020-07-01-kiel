@@ -45,7 +45,7 @@ Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie
 <div class="huge">
 
 1. Why software **quality** is important
-2. How investing in software benefits **research**
+2. How investing in software can benefit **research**
 3. What **you** can do today
 
 </div>
@@ -58,7 +58,7 @@ Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie
 <div class="centered">
 <div>
 
-# A bit of background
+# My Background
 
 *A tale of three projects*
 
@@ -183,6 +183,42 @@ First website and example gallery from 2011. (Google+ &#x1f602;)
 Used extensively in **teaching** at [UERJ](https://www.uerj.br/) and
 **research** at the [PINGA Lab](https://www.pinga-lab.org/)
 
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="cover" -->
+
+<div class="r-stretch bottom-right">
+
+In 2018 started a complete rewrite of Fatiando a Terra,
+<br>
+breaking into separate tools.
+
+</div>
+
+---
+
+<div class="container">
+<div class="col-left">
+
+<img src="img/santisoler.jpg" style="margin-top: 5%; border-radius: 50%; width: 70%;">
+<p style="text-align: center;">
+<a href="https://santisoler.github.io/">Santiago Soler<br>@santisoler</a>
+</p>
+
+</div>
+<div class="col-right">
+
+## Breath of fresh air
+
+* PhD student from Argentina
+* Collaborating since 2015
+* Inspired writing down my process
+* Leading some of our new packages (Harmonica and RockHound)
+* Main force behind many new developments
+
+</div>
 </div>
 
 ---
@@ -381,57 +417,37 @@ Building software to power **scalable** gravity and magnetics
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/Wikimedia_Foundation_Servers-8055_35.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-right">
-
-In 2018 started a complete rewrite of Fatiando a Terra,
-<br>
-breaking into separate tools.
-
-</div>
-
----
+## Code is essential to research
 
 <div class="container">
 <div class="col-left">
 
-<img src="img/santisoler.jpg" style="margin-top: 5%; border-radius: 50%; width: 70%;">
-<p style="text-align: center;">
-<a href="https://santisoler.github.io/">Santiago Soler<br>@santisoler</a>
-</p>
+Data processing, analysis, visualization, inference, etc.
+
+**Computers are involved somehow.**
 
 </div>
 <div class="col-right">
 
-## Breath of fresh air
+Machine learning is open-source:
 
-* PhD student from Argentina
-* Collaborating since 2015
-* Inspired writing down my process
-* Leading some of our new packages (Harmonica and RockHound)
-* Main force behind new developments in the lab
-  <br> (tesseroids, equivalent-layers, etc)
+* [scikit-learn](https://scikit-learn.org/)
+* [TensorFlow](https://www.tensorflow.org/) (Google)
+* [PyTorch](https://pytorch.org/) (Facebook)
+* [RAPIDS](https://rapids.ai/) (NVIDIA)
 
 </div>
 </div>
 
----
+<div class="r-stretch bottom-left bottom-dark">
 
-Something about the compgeolab. How we're building stuff on top of Fatiando.
-What the research vision is the for the next couple of years.
-Scaling up gravity and magnetic data processing using modern tools and a blend
-of machine learning.
+Image by
+Victor Grigas
+([CC-BY-SA](https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_35.jpg))
 
----
-
-I've been immersed in scientific software for the last 12 years.
-
-The importance of open-source software in science.
-
-Everyone wants a piece of the Python cake.
-
-Machine learning is open-source (scikit-learn, tensorflow, pytorch).
+</div>
 
 ---
 
@@ -487,6 +503,22 @@ Software + ML + distributed.
 Santi's work on block eql.
 Work on cross-validation.
 Next steps with Dask and Santi's work on iterative EQL.
+
+---
+
+## Scaling processing to large datasets
+
+EQL is costly.
+Figure from Santi's talk.
+ML approach.
+Working towards automatic pipelines and faster execution.
+Santi's work on reducing number of sources.
+My work on CV (include animation of Dask running in parallel).
+Future plans.
+Parallel fitting and prediction.
+Reduce memory usage.
+CV with data from ground + satellite?
+Integrate large collections in the cloud.
 
 ---
 
@@ -575,9 +607,9 @@ You can get credit for this work. JOSS.
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 </p>
 
-This presentation is licensed under a
+This presentation is licensed under
 
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
 </div>

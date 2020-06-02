@@ -34,7 +34,7 @@
     .bottom-dark {
         p {
             background-color: #333333 !important;
-            color: #ddd !important;
+            color: #eeeeee !important;
             a {
                 color: #eeeeee;
                 text-decoration: underline;
@@ -65,7 +65,7 @@
             background-color: #165ba8dd;
             box-shadow: 5px 5px 10px #00000044;
             padding: 5%;
-            color: #fff;
+            color: @lightcolor;
             font-size: @basefontsize * 0.8 !important;
             margin: 0 !important;
         }
@@ -130,6 +130,12 @@
         &.has-light-background h1 {
             color: #333333;
         }
+        &.has-dark-background {
+            a {
+                color: @lightcolor;
+                text-decoration: underline;
+            }
+        }
         // Needed to be able to centre slides and place notes at the bottom.
         &.present {
             height: 100%;
@@ -193,6 +199,7 @@
     .slide-title {
         a {
             color: @lightcolor;
+            text-decoration: none !important;
         }
         h1 {
             margin-top: 0;
@@ -231,6 +238,7 @@
         a {
             color: @lightcolor;
             margin-left: 3%;
+            text-decoration: none !important;
         }
     }
 }
