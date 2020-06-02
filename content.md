@@ -197,10 +197,158 @@ Postdoct at University of Hawai'i working on the Generic Mapping Tools (GMT)
 
 ---
 
-A bit about GMT and my involvement. Something about PyGMT and maybe that
-picture of the steering council.
+<div class="centered">
+<div>
 
-Our NSF grant and the next challenges facing GMT.
+## Project #3
+
+<img src="img/gmt.png" style="width: 50%; margin: 0 0 3% 0;">
+
+*Command-line tool for mapping/processing geophysical data*
+
+[`www.generic-mapping-tools.org`](https://www.generic-mapping-tools.org)
+
+</div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/gmt-summit-2019-names.jpg" data-background-size="cover" data-background-position="top" -->
+
+<div class="r-stretch bottom-left">
+
+GMT started in the 80s by Paul Wessel and Walter Smith.
+Photo from the 2019 GMT Summit at Scripps.
+
+</div>
+
+---
+
+## PyGMT: Bringing GMT to Python
+
+<div class="container">
+<div class="col-large">
+
+```python
+import pygmt
+
+# Load built-in topography data
+grid = pygmt.datasets.load_earth_relief()
+
+fig = pygmt.Figure()
+# Pseudo-color map of topography
+fig.basemap(
+    region=[-150, -30, -60, 60],
+    projection="I-90/6i",
+    frame=True,
+)
+fig.grdimage(grid=grid, cmap="viridis")
+# Mask continents in dark grey
+fig.coast(land="#333333")
+# Display in Jupyter or pop-up window
+fig.show()
+```
+
+</div>
+<div class="col-small">
+
+<img src="img/pygmt-example.png" style="width: 100%;">
+
+<div class="r-stretch bottom-center">
+
+My [initial role in Hawai'i](https://www.leouieda.com/blog/hawaii-gmt-postdoc.html)
+was creating [PyGMT](https://www.pygmt.org/).
+
+</div>
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col-large">
+
+<img src="img/pygmt-release.jpg">
+
+<div class="r-stretch bottom-left">
+
+The [first official release of PyGMT](https://www.pygmt.org/latest/changes.html#release-v0-1-0-2020-05-03)
+was managed by Wei Ji and Dongdong.
+
+</div>
+
+</div>
+<div class="col-small">
+
+### A community developed project
+
+Contributors to v0.1.0:
+
+<div class="tiny">
+
+* Dongdong Tian
+* Wei Ji Leong
+* Leonardo Uieda
+* Liam Toney
+* Brook Tozer
+* Claudio Satriano
+* Cody Woodson
+* Mark Wieczorek
+* Philipp Loose
+* Kathryn Materna
+
+</div>
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col-left">
+
+<img src="img/gmt-forum.jpg">
+
+</div>
+<div class="col-right">
+
+### How Paul can retire in peace &#x1F3DD;
+
+<ul class="fa-ul">
+<li>
+  <i class="fa-li fab fa-github fa-fw"></i>
+  Lower barriers to contribution
+</li>
+<li>
+  <i class="fa-li fas fa-robot fa-fw"></i>
+  Automate as much as possible
+</li>
+<li>
+  <i class="fa-li fa fa-users fa-fw"></i>
+  Nurture a sense of community
+</li>
+<li>
+  <i class="fa-li fas fa-university fa-fw"></i>
+  Formalize project governance
+</li>
+<li>
+  <i class="fa-li fas fa-code fa-fw"></i>
+  General house cleaning
+</li>
+</ul>
+
+&#x1F389; [NSF grant to fund this](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602) &#x1F389;
+
+<div class="bottom-center" style="margin-top: 6%">
+
+Proposal is public at
+[doi.org/10.6084/m9.figshare.12235727](https://doi.org/10.6084/m9.figshare.12235727)
+
+</div>
+
+</div>
+</div>
 
 ---
 
@@ -214,10 +362,22 @@ Lecturer of Geophysics at the University of Liverpool from 2019
 
 ---
 
-Something about the compgeolab. How we're building stuff on top of Fatiando.
-What the research vision is the for the next couple of years.
-Scaling up gravity and magnetic data processing using modern tools and a blend
-of machine learning.
+<!-- .slide: data-background-image="img/title-slide-background.jpg" data-background-opacity="0.35" data-background-color="#000000" -->
+
+<div class="centered">
+<div>
+
+<a href="https://www.compgeolab.org">
+<img src="img/compgeolab.svg" style="width: 50%; margin-bottom: 5%;">
+</a>
+
+## Geophysics + Open-source
+
+Building software to power **scalable** gravity and magnetics
+**processing and inversion**
+
+</div>
+</div>
 
 ---
 
@@ -235,10 +395,12 @@ breaking into separate tools.
 
 <div class="container">
 <div class="col-left">
-    <img src="img/santisoler.jpg" style="border-radius: 50%; width: 80%;">
-    <p style="text-align: center;">
-    <a href="https://santisoler.github.io/">Santiago Soler<br>@santisoler</a>
-    </p>
+
+<img src="img/santisoler.jpg" style="margin-top: 5%; border-radius: 50%; width: 70%;">
+<p style="text-align: center;">
+<a href="https://santisoler.github.io/">Santiago Soler<br>@santisoler</a>
+</p>
+
 </div>
 <div class="col-right">
 
@@ -248,10 +410,18 @@ breaking into separate tools.
 * Collaborating since 2015
 * Inspired writing down my process
 * Leading some of our new packages (Harmonica and RockHound)
-* Main force behind many new developments
+* Main force behind new developments in the lab
+  <br> (tesseroids, equivalent-layers, etc)
 
 </div>
 </div>
+
+---
+
+Something about the compgeolab. How we're building stuff on top of Fatiando.
+What the research vision is the for the next couple of years.
+Scaling up gravity and magnetic data processing using modern tools and a blend
+of machine learning.
 
 ---
 
