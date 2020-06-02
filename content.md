@@ -305,7 +305,7 @@ was creating [PyGMT](https://www.pygmt.org/).
 <div class="container">
 <div class="col-large">
 
-<img src="img/pygmt-release.jpg">
+<img src="img/pygmt-release.jpg" style="width: 95%">
 
 <div class="r-stretch bottom-left">
 
@@ -341,15 +341,7 @@ Contributors to v0.1.0:
 
 ---
 
-<div class="container">
-<div class="col-left">
-
-<img src="img/gmt-forum.jpg">
-
-</div>
-<div class="col-right">
-
-### How Paul can retire in peace &#x1F3DD;
+## How Paul can retire in peace &#x1F3DD;
 
 <ul class="fa-ul">
 <li>
@@ -374,16 +366,19 @@ Contributors to v0.1.0:
 </li>
 </ul>
 
-&#x1F389; [NSF grant to fund this](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602) &#x1F389;
+<div class="fragment">
 
-<div class="bottom-center" style="margin-top: 6%">
+&#x1F389;
+[new NSF grant to fund this](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602)
+&#x1F389;
+
+<div class="bottom-center" style="margin-top: 3%;">
 
 Proposal is public at
 [doi.org/10.6084/m9.figshare.12235727](https://doi.org/10.6084/m9.figshare.12235727)
 
 </div>
 
-</div>
 </div>
 
 ---
