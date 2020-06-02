@@ -1,4 +1,4 @@
-<!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
+<!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-opacity="0.25" data-background-color="#000000" -->
 
 <div class="centered">
 <div>
@@ -554,18 +554,39 @@ You can get credit for this work. JOSS.
 
 ---
 
+<!-- .slide: class="slide-conclusions" -->
+
 ## Main takeaways
 
-1.
-2.
-3.
+<ol>
+<li class="fragment">
+
+**Treat code as you would data** <br> *be skeptical, diligent, careful*
+
+</li>
+<li class="fragment">
+
+**Learn "good-enough" practices** <br> *to safely handle code*
+
+</li>
+<li class="fragment">
+
+**One step at a time** <br> *do what can be done right now*
+
+</li>
+<li class="fragment">
+
+**Value good software** <br> *with credit, money, and time*
+
+</li>
+</ol>
 
 ---
 
 <!-- CONTACT -->
 <!-- ====================================================================== -->
 
-<!-- .slide: class="slide-contact" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: class="slide-contact" data-background-image="img/liverpool.jpg" data-background-position="top" data-background-opacity="0.25" data-background-color="#000000" -->
 
 <div class="centered">
 <div>
