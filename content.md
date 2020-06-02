@@ -7,9 +7,11 @@
 
 ## [Leonardo Uieda](https://www.leouieda.com)
 
-[<i class="fab fa-twitter fa-fw"></i> @leouieda](https://twitter.com/leouieda)
+[leouieda.com](https://www.leouieda.com)
+<span style="margin: 0 20px"></span>
+[<i class="fab fa-twitter fa-small"></i> @leouieda](https://twitter.com/leouieda)
 
-Institute of Geophysics and Geoinformatics | Technische Universität Bergakademie Freiberg
+Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie Freiberg
 
 4 June 2020
 
@@ -24,6 +26,14 @@ Institute of Geophysics and Geoinformatics | Technische Universität Bergakademi
 [<img src="img/university-of-liverpool-white.png" style="width: 40%">](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/)
 
 </div>
+</div>
+
+<div class="title-license">
+
+[<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i> CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+<span style="margin: 0 20px">|</span>
+<i class="fa fa-camera"></i> Feel free to share/photograph this presentation
+
 </div>
 
 </div>
