@@ -46,7 +46,7 @@ Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie
 
 1. Why software **quality** is important
 2. How investing in software benefits **research**
-3. What **you** can do about it today
+3. What **you** can do today
 
 </div>
 </div>
@@ -82,7 +82,7 @@ MSc + PhD in Geophysics from Observatório Nacional in Rio
 
 <div class="r-stretch bottom-right">
 
-The code actually compiled on my first try!
+16 years later and the code actually compiled on my first try!
 
 </div>
 
@@ -104,7 +104,7 @@ Don't judge the hair, I was 19.
 
 ## Project #1
 
-<img src="img/tesseroids.svg" style="width:80%; margin: 5% 0;">
+<img src="img/tesseroids.svg" style="width: 80%; margin: 0 0 5% 0;">
 
 *C command-line programs for gravity modelling*
 
@@ -153,7 +153,9 @@ doi:[10.1190/geo2015-0204.1](https://doi.org/10.1190/geo2015-0204.1)
 
 ## Project #2
 
-<img src="img/fatiando.svg" style="width:80%; margin: 5% 0;">
+<img src="img/fatiando.svg" style="width: 80%; margin: 0 0 3% 0;">
+
+*Libraries for modelling, inversion, data processing, etc.*
 
 [`www.fatiando.org`](https://www.fatiando.org)
 
@@ -164,7 +166,7 @@ doi:[10.1190/geo2015-0204.1](https://doi.org/10.1190/geo2015-0204.1)
 
 <!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="cover" -->
 
-<div class="r-stretch bottom-right">
+<div class="r-stretch bottom-right bottom-dark">
 
 Started in 2010 as a mixed bag of geophysics in Python.
 <br>
@@ -176,10 +178,10 @@ First website and example gallery from 2011. (Google+ &#x1f602;)
 
 <!-- .slide: data-background-video="video/seismic-waves-demo.mp4" data-background-size="cover" -->
 
-<div class="r-stretch bottom-right">
+<div class="r-stretch bottom-right bottom-dark">
 
 Used extensively in **teaching** at [UERJ](https://www.uerj.br/) and
-**research** at the [PINGA Lab](https://www.pinga-lab.org/).
+**research** at the [PINGA Lab](https://www.pinga-lab.org/)
 
 </div>
 
