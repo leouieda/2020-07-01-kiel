@@ -44,9 +44,9 @@ Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie
 <div class="centered">
 <div class="huge">
 
-1. Why software **quality** is important
-2. How investing in software can benefit **research**
-3. What **you** can do today
+1. Why software **best practices** are important
+2. How investing in software can benefit **science**
+3. What **you** can do about it today
 
 </div>
 </div>
@@ -249,17 +249,6 @@ Postdoct at University of Hawai'i working on the Generic Mapping Tools (GMT)
 
 ---
 
-<!-- .slide: data-background-image="img/gmt-summit-2019-names.jpg" data-background-size="cover" data-background-position="top" -->
-
-<div class="r-stretch bottom-left">
-
-GMT started in the 80s by Paul Wessel and Walter Smith.
-Photo from the 2019 GMT Summit at Scripps.
-
-</div>
-
----
-
 ## PyGMT: Bringing GMT to Python
 
 <div class="container">
@@ -345,6 +334,16 @@ Contributors to v0.1.0:
 </div>
 </div>
 
+---
+
+<!-- .slide: data-background-image="img/gmt-summit-2019-names.jpg" data-background-size="cover" data-background-position="top" -->
+
+<div class="r-stretch bottom-left">
+
+GMT started in the 80s by Paul Wessel and Walter Smith.
+Photo from the 2019 GMT Summit at Scripps.
+
+</div>
 
 ---
 
@@ -410,8 +409,10 @@ Lecturer of Geophysics at the University of Liverpool from 2019
 
 ## Geophysics + Open-source
 
-Building software to power **scalable** gravity and magnetics
-**processing and inversion**
+Building **methods and software** foundations to power
+
+**scalable**
+gravity and magnetics **processing and inversion**
 
 </div>
 </div>
@@ -427,12 +428,14 @@ Building software to power **scalable** gravity and magnetics
 
 Data processing, analysis, visualization, inference, etc.
 
-**Computers are involved somehow.**
+<br>
+
+**Computers are always involved somehow.**
 
 </div>
 <div class="col-right">
 
-Machine learning is open-source:
+Machine learning is <br> open-source:
 
 * [scikit-learn](https://scikit-learn.org/)
 * [TensorFlow](https://www.tensorflow.org/) (Google)
@@ -457,9 +460,9 @@ Victor Grigas
 <div class="centered">
 <div>
 
-# Why quality is important
+# Why best practices <br> are important
 
-*Horror stories of public backlash*
+*Horror stories of public embarassment and backlash*
 
 </div>
 </div>
@@ -469,6 +472,9 @@ Victor Grigas
 Something about the spreadsheet bug.
 
 A bit about the recent covid C code.
+
+Your quick hack can end up becoming the foundations of a field.
+By the time you realize it it could be too late.
 
 But also positive sides. Good software gets used. Used software generates
 citations and collaborations.
@@ -489,6 +495,8 @@ citations and collaborations.
 
 ---
 
+past:
+
 Tesseroids usage for GOCE grids.
 
 Building on top of previous work.
@@ -497,12 +505,17 @@ Design for reuse.
 Rapid prototyping for Moho inversion (idea to results in couple of days).
 Even moderately documented generated use.
 
+Present
+
 Our recent work on building scalable equivalent layers.
 What do we need to make this work?
 Based on Verde so talk a bit about it.
 Software + ML + distributed.
 Santi's work on block eql.
 Work on cross-validation.
+
+Future
+
 Next steps with Dask and Santi's work on iterative EQL.
 
 ---
