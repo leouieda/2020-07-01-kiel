@@ -715,39 +715,127 @@ Uieda & Barbosa (2017) | doi:[10.1093/gji/ggw390](https://doi.org/10.1093/gji/gg
 
 ---
 
+## Equivalent source processing
 
+<div class="container">
+<div class="col-large">
 
+<img src="img/equivalent-source-setup.svg">
+
+</div>
+
+<div class="col-small">
+
+Linear model used to make predictions:
+
+* interpolation/gridding
+* reduction-to-the-pole
+* upward-continuation
+* derivatives
+* and more
+
+</div>
+</div>
+
+<div class="r-stretch bottom-left">
+
+Soler & Uieda (2020) | doi:[10.5194/egusphere-egu2020-549](https://doi.org/10.5194/egusphere-egu2020-549).
+
+</div>
 
 ---
 
-Present
+## Challenge: Computationally heavy
 
-Our recent work on building scalable equivalent layers.
-What do we need to make this work?
-Based on Verde so talk a bit about it.
-Software + ML + distributed.
-Santi's work on block eql.
-Work on cross-validation.
+<div class="container">
+<div class="col-left">
 
-Future
+<img src="img/equivalent-source-block-reduce.svg" style="width: 75%">
 
-Next steps with Dask and Santi's work on iterative EQL.
+</div>
+
+<div class="col-right">
+
+Block-averaging source positions
+can **reduce** number of sources by 1/2 to 1/5
+with **same interpolation accuracy**.
+
+</div>
+</div>
+
+<div class="r-stretch bottom-right">
+
+Soler & Uieda (2020) | doi:[10.5194/egusphere-egu2020-549](https://doi.org/10.5194/egusphere-egu2020-549).
+
+</div>
 
 ---
 
-## Scaling processing to large datasets
+## Challenge: Source depth, damping, etc
 
-EQL is costly.
-Figure from Santi's talk.
-ML approach.
-Working towards automatic pipelines and faster execution.
-Santi's work on reducing number of sources.
-My work on CV (include animation of Dask running in parallel).
-Future plans.
-Parallel fitting and prediction.
-Reduce memory usage.
-CV with data from ground + satellite?
-Integrate large collections in the cloud.
+<div class="container">
+<div class="col-left">
+
+<img src="img/equivalent-source-block-cv.svg" style="width: 100%">
+
+</div>
+
+<div class="col-right">
+
+**Cross-validation** is the gold standard in machine learning.
+
+**Underestimates** accuracy scores for spatial data.
+
+**Block (spatial) cross-validation** resolves this issue.
+
+</div>
+</div>
+
+<div class="r-stretch bottom-right">
+
+Roberts et al. (2017) | doi:[10.1111/ecog.02881](https://doi.org/10.1111/ecog.02881)
+<br>
+Uieda & Soler (2020) | doi:[10.5194/egusphere-egu2020-15729](https://doi.org/10.5194/egusphere-egu2020-15729).
+
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+# Future
+
+</div>
+</div>
+
+---
+
+## Automated, parallel, scalable
+
+<div class="container">
+<div class="col-large">
+
+Equivalent-sources on large data:
+
+* Parallel cross-validation (done)
+* Reduce memory usage (done in part)
+* Parallel least-squares
+* Efficient machine learning methods
+* Multiple different datasets
+* Scale in the cloud ([Pangeo](https://pangeo.io/))
+
+</div>
+<div class="col-small" style="text-align: center;">
+
+Built on open-source:
+
+<img src="img/verde.jpg" style="width: 100%">
+<img src="img/harmonica.jpg" style="width: 100%">
+<img src="img/dask.svg" style="width: 60%;">
+
+</div>
+</div>
 
 ---
 
