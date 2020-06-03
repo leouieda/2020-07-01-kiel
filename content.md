@@ -610,6 +610,11 @@ You can get credit for this work. JOSS.
 [www.leouieda.com](https://www.leouieda.com)
 
 </li>
+<li><i class="fa-li fa fa-flask"></i>
+
+[www.compgeolab.org](https://www.compgeolab.org)
+
+</li>
 </ul>
 
 </div>
