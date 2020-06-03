@@ -628,15 +628,97 @@ tracks over 18000 citations related to GMT.
 
 ---
 
-past:
+<div class="centered">
+<div>
 
-Tesseroids usage for GOCE grids.
+# Past
 
-Building on top of previous work.
-No hunting for bugs in already tested code.
-Design for reuse.
-Rapid prototyping for Moho inversion (idea to results in couple of days).
-Even moderately documented generated use.
+</div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" -->
+
+<div class="r-stretch bottom-left bottom-dark">
+
+Bouman et al. (2016) | doi:[10.1038/srep21050](https://doi.org/10.1038/srep21050)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+
+<div class="r-stretch quote">
+
+"The signal has been calculated for the spherical geometry with the software
+*Tesseroids*"
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Bouman et al. (2016) | doi:[10.1038/srep21050](https://doi.org/10.1038/srep21050)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/moho-south-america-repository.jpg" -->
+
+<div class="r-stretch bottom-left bottom-dark">
+
+Code (built on Fatiando a Terra) and data [published on
+GitHub](https://github.com/pinga-lab/paper-moho-inversion-tesseroids).
+Uieda & Barbosa (2017) | doi:[10.1093/gji/ggw390](https://doi.org/10.1093/gji/ggw390).
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/moho-south-america-repository.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+
+<div class="r-stretch quote">
+
+**Studies using the code:**
+<br>
+Antarctica (Chisenga et al., 2019; Pappa et al., 2019)
+<br>
+Egypt (Sobh et al., 2019)
+<br>
+Atlas (Ghomsi et al., 2019)
+<br>
+China (Chisenga and Yan, 2019)
+<br>
+Cameroon (Ghomsi et al., 2020)
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Code (built on Fatiando a Terra) and data [published on
+GitHub](https://github.com/pinga-lab/paper-moho-inversion-tesseroids).
+Uieda & Barbosa (2017) | doi:[10.1093/gji/ggw390](https://doi.org/10.1093/gji/ggw390).
+
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+# Present
+
+</div>
+</div>
+
+---
+
+
+
+
+---
 
 Present
 
