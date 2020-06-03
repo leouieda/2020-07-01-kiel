@@ -321,13 +321,18 @@ was managed by Wei Ji and Dongdong.
 
 Contributors to v0.1.0:
 
-<div class="tiny">
+<div class="container" style="margin-top: 5%">
+<div class="col-left tiny">
 
 * Dongdong Tian
 * Wei Ji Leong
 * Leonardo Uieda
 * Liam Toney
 * Brook Tozer
+
+</div>
+<div class="col-right tiny">
+
 * Claudio Satriano
 * Cody Woodson
 * Mark Wieczorek
@@ -335,13 +340,17 @@ Contributors to v0.1.0:
 * Kathryn Materna
 
 </div>
+</div>
 
 </div>
 </div>
+
 
 ---
 
-## How Paul can retire in peace &#x1F3DD;
+<!-- .slide: data-background-image="img/hawaii-sunset.jpg" data-background-opacity="0.25" data-background-color="#000000" -->
+
+### How Paul can retire in peace &#x1F3DD;
 
 <ul class="fa-ul">
 <li>
@@ -354,7 +363,7 @@ Contributors to v0.1.0:
 </li>
 <li>
   <i class="fa-li fa fa-users fa-fw"></i>
-  Nurture a sense of community
+  Nurture a community of users/developers
 </li>
 <li>
   <i class="fa-li fas fa-university fa-fw"></i>
@@ -362,24 +371,21 @@ Contributors to v0.1.0:
 </li>
 <li>
   <i class="fa-li fas fa-code fa-fw"></i>
-  General house cleaning
+  General house cleaning of the code
 </li>
-</ul>
-
-<div class="fragment">
-
-&#x1F389;
-[new NSF grant to fund this](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602)
-&#x1F389;
-
-<div class="bottom-center" style="margin-top: 3%;">
+<li class="fragment">
+  <i class="fa-li fa fa-dollar-sign fa-fw"></i>
+  new NSF grant to fund this
+  &#x1F389;
+  (ID: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948602">1948602</a>)
+<div class="bottom-left bottom-dark" style="margin-top: 3%;">
 
 Proposal is public at
 [doi.org/10.6084/m9.figshare.12235727](https://doi.org/10.6084/m9.figshare.12235727)
 
 </div>
-
-</div>
+</li>
+</ul>
 
 ---
 
