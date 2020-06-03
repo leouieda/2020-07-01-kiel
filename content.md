@@ -46,7 +46,7 @@ Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie
 
 1. Why software **best practices** are important
 2. How investing in software can benefit **science**
-3. What **you** can do about it today
+3. What you can do about it **today**
 
 </div>
 </div>
