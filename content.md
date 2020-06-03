@@ -469,15 +469,148 @@ Victor Grigas
 
 ---
 
-Something about the spreadsheet bug.
+<!-- .slide: data-background-image="img/reinhart-rogoff-error.jpg" data-background-opacity="1" data-background-color="#000000" -->
 
-A bit about the recent covid C code.
+<div class="r-stretch bottom-left bottom-dark">
 
-Your quick hack can end up becoming the foundations of a field.
-By the time you realize it it could be too late.
+Published in *The Conversation*
+([CC-BY-ND](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646))
 
-But also positive sides. Good software gets used. Used software generates
-citations and collaborations.
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/reinhart-rogoff-error.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+
+
+<div class="r-stretch quote">
+
+“The most serious was that, in their Excel spreadsheet, Reinhart and Rogoff had
+**not selected the entire row** when averaging growth figures...”
+
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Published in *The Conversation*
+([CC-BY-ND](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646)).
+Emphasis are my own.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/reinhart-rogoff-error.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+
+
+<div class="r-stretch quote">
+
+"So the **key conclusion** of a seminal paper, which has been **widely quoted
+in political debates** in North America, Europe, Australia and elsewhere, was
+**invalid**."
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Published in *The Conversation*
+([CC-BY-ND](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646)).
+Emphasis are my own.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/ferguson-modelling-code.jpg" data-background-opacity="1" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left bottom-dark">
+
+Published in [*Software Sustainability Institute* blog](https://www.software.ac.uk/blog/2020-06-01-critique-software-understand-constraints-its-written-under)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/ferguson-modelling-code.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+
+<div class="r-stretch quote">
+
+"When Ferguson tweeted on 22 March that he "wrote the code (**thousands of
+lines of undocumented C**) 13+ years ago to model flu pandemics", the debate
+expanded to include the work's age, robustness and applicability to
+coronavirus.
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Published in [*Software Sustainability Institute* blog](https://www.software.ac.uk/blog/2020-06-01-critique-software-understand-constraints-its-written-under).
+Emphasis are my own.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/ferguson-modelling-code-github.jpg" data-background-opacity="0.5" data-background-color="#000000" -->
+
+<div class="r-stretch quote">
+
+"We, the undersigned software engineers, call for any papers
+<br>
+based on this codebase to be immediately retracted"
+
+</div>
+
+<div class="bottom-left bottom-dark">
+
+Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165)
+
+</div>
+
+---
+
+<div class="centered">
+<div>
+
+## Earth Science is also in the public gaze
+
+
+Today's quick hack can become the foundation for
+
+tomorrow's climate change policy.
+
+
+</div>
+</div>
+
+---
+
+<div class="container">
+<div class="col-large">
+
+<img src="img/paul-google-scholar.jpg">
+
+</div>
+<div class="col-small">
+
+## Not all is grim
+
+* Good software gets **used**
+* Used software generates citations and collaborations
+* Potential impact of software is huge
+* It's never too late to start
+* ...until it is
+
+</div>
+</div>
+
+<div class="r-stretch bottom-left">
+
+Paul's [Google Scholar page](https://scholar.google.com/citations?user=sRaRFxIAAAAJ&hl=en&oi=ao#)
+tracks over 18000 citations related to GMT.
+
+</div>
 
 ---
 
