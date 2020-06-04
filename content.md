@@ -882,6 +882,8 @@ Smith et al. (2016)
 
 I'm a topic editor for geophysics and [there are many
 others](https://joss.theoj.org/about#topic_editors)
+|
+JOSS logo licensed [CC-BY-4.0](https://github.com/openjournals/digital-assets)
 
 </div>
 
