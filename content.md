@@ -7,7 +7,7 @@
 
 ## [Leonardo Uieda](https://www.leouieda.com)
 
-[leouieda.com](https://www.leouieda.com)
+[www.leouieda.com](https://www.leouieda.com)
 <span style="margin: 0 20px"></span>
 [<i class="fab fa-twitter fa-small"></i> @leouieda](https://twitter.com/leouieda)
 
