@@ -619,7 +619,7 @@ tracks over 18000 citations related to GMT.
 <div class="centered">
 <div>
 
-# Good software <br> benefits science
+# Open software <br> benefits science
 
 *Success stories of past, present, and future*
 
