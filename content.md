@@ -853,21 +853,62 @@ Built on open-source:
 
 ---
 
-What PIs, postdocs and students can do to make a difference.
+## Value software work
 
-Invest in software from the start.
+1. In your own lab/department/university
+1. In grant evaluations, job searches, awards
+1. Be kind and respectful to developers
+1. Cite the software you use\*
+1. Encourage others to do the same
 
-Encourage training.
+<div class="r-stretch bottom-right">
 
-Value software work in evaluations.
+\* See ["Software citation principles"](https://doi.org/10.7717/peerj-cs.86) by
+Smith et al. (2016)
 
-Software Carpentry and the SSI.
-
-Get involved in existing projects (learn by helping).
+</div>
 
 ---
 
-You can get credit for this work. JOSS.
+## Get credit for your code
+
+<img src="img/joss.jpg" style="width: 50%">
+
+*Open-access (free) developer-friendly journal*
+
+[`joss.theoj.org`](https://joss.theoj.org/)
+
+<div class="r-stretch bottom-right">
+
+I'm a topic editor for geophysics and [there are many
+others](https://joss.theoj.org/about#topic_editors)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/agu2018workshop.jpg" data-background-opacity="0.25" data-background-color="#000000" -->
+
+## Train in best practices
+
+* [Software Carpentry](https://software-carpentry.org)
+* [AGU Workshops](https://github.com/agu-ossi)
+* [Software Sustainability Institute (SSI)](https://www.software.ac.uk/)
+* [US Research Software Sustainability Institute (URSSI)](http://urssi.us/)
+* [Better Scientific Software](https://bssw.io/)
+* Contribute to a project (code, docs, examples, etc)
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+# Conclusions
+
+</div>
+</div>
 
 ---
 
