@@ -801,6 +801,35 @@ Uieda & Soler (2020) | doi:[10.5194/egusphere-egu2020-15729](https://doi.org/10.
 
 ---
 
+<div class="container">
+<div class="col-left">
+
+<img src="img/pbo-nam08-data.png" style="width: 80%">
+
+</div>
+
+<div class="col-right">
+
+## Beyond gravity and magnetics
+
+Interpolate and merge 3D velocities from
+**GPS and InSAR**
+
+**Large data** volumes from InSAR
+
+Used to calculate strain rate for **tectonics and geohazards**
+
+</div>
+</div>
+
+<div class="r-stretch bottom-right">
+
+Uieda & et al. (2018) | doi:[10.6084/m9.figshare.7440683](https://doi.org/10.6084/m9.figshare.7440683).
+
+</div>
+
+---
+
 <div class="centered">
 <div>
 
