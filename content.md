@@ -815,9 +815,9 @@ Uieda & Soler (2020) | doi:[10.5194/egusphere-egu2020-15729](https://doi.org/10.
 Interpolate and merge 3D velocities from
 **GPS and InSAR**
 
-**Large data** volumes from InSAR
-
 Used to calculate strain rate for **tectonics and geohazards**
+
+**Large data** volumes from InSAR
 
 </div>
 </div>
