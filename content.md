@@ -78,11 +78,11 @@ MSc + PhD in Geophysics from Observatório Nacional in Rio
 
 ---
 
-<!-- .slide: data-background-image="img/first-contact-with-c.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/first-contact-with-c.jpg" data-background-size="contain" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-right">
 
-16 years later and the code actually compiled on my first try!
+16 years later and this code actually compiled on my first try!
 
 </div>
 
@@ -164,7 +164,7 @@ doi:[10.1190/geo2015-0204.1](https://doi.org/10.1190/geo2015-0204.1)
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-first-gallery.jpg" data-background-size="contain" data-background-color="#000000" -->
 
 <div class="r-stretch bottom-right bottom-dark">
 
@@ -187,7 +187,7 @@ Used extensively in **teaching** at [UERJ](https://www.uerj.br/) and
 
 ---
 
-<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="cover" -->
+<!-- .slide: data-background-image="img/fatiando-tools.svg" data-background-size="contain" -->
 
 <div class="r-stretch bottom-right">
 
@@ -336,7 +336,7 @@ Contributors to v0.1.0:
 
 ---
 
-<!-- .slide: data-background-image="img/gmt-summit-2019-names.jpg" data-background-size="cover" data-background-position="top" -->
+<!-- .slide: data-background-image="img/gmt-summit-2019-names.svg" data-background-size="cover" data-background-position="top" -->
 
 <div class="r-stretch bottom-left">
 
