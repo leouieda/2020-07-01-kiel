@@ -82,7 +82,7 @@ MSc + PhD in Geophysics from Observatório Nacional in Rio
 
 <div class="r-stretch bottom-right">
 
-16 years later and this code actually compiled on my first try!
+Many years of Python coding later and this code actually compiled on my first try!
 
 </div>
 
@@ -392,7 +392,7 @@ Proposal is public at
 
 <div class="r-stretch bottom-left">
 
-Lecturer of Geophysics at the University of Liverpool from 2019
+In 2019, started as Lecturer of Geophysics at the University of Liverpool
 
 </div>
 
@@ -433,7 +433,7 @@ Data processing, analysis, visualization, inference, etc.
 **Computers are always involved somehow.**
 
 </div>
-<div class="col-right">
+<div class="col-right fragment">
 
 Machine learning is <br> open-source:
 
@@ -599,8 +599,7 @@ tomorrow's climate change policy.
 * Good software gets **used**
 * Used software generates citations and collaborations
 * Potential impact of software is huge
-* It's never too late to start
-* ...until it is
+* It's not too late to start
 
 </div>
 </div>
@@ -638,7 +637,7 @@ tracks over 18000 citations related to GMT.
 
 ---
 
-<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" -->
+<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" data-background-size="contain" -->
 
 <div class="r-stretch bottom-left bottom-dark">
 
@@ -648,7 +647,7 @@ Bouman et al. (2016) | doi:[10.1038/srep21050](https://doi.org/10.1038/srep21050
 
 ---
 
-<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" data-background-opacity="0.2" data-background-color="#000000" -->
+<!-- .slide: data-background-image="img/tesseroids-usage-goce.jpg" data-background-opacity="0.2" data-background-color="#ffffff" data-background-size="contain" -->
 
 <div class="r-stretch quote">
 
@@ -843,25 +842,25 @@ Uieda & et al. (2018) | doi:[10.6084/m9.figshare.7440683](https://doi.org/10.608
 ## Automated, parallel, scalable
 
 <div class="container">
-<div class="col-large">
+<div class="col-left">
 
-Equivalent-sources on large data:
+Equivalent-sources on<br>large data:
 
-* Parallel cross-validation (done)
+* Parallel processing (done in part)
 * Reduce memory usage (done in part)
-* Parallel least-squares
 * Efficient machine learning methods
 * Multiple different datasets
 * Scale in the cloud ([Pangeo](https://pangeo.io/))
 
 </div>
-<div class="col-small" style="text-align: center;">
+<div class="col-right" style="text-align: center;">
 
 Built on open-source:
 
-<img src="img/verde.jpg" style="width: 100%">
-<img src="img/harmonica.jpg" style="width: 100%">
-<img src="img/dask.svg" style="width: 60%;">
+[<img src="img/verde.jpg" style="width: 80%">](https://www.fatiando.org/verde/)
+[<img src="img/harmonica.jpg" style="width: 70%">](http://www.fatiando.org/harmonica/)
+[<img src="img/dask.svg" style="width: 40%;">](https://dask.org/)
+[<img src="img/scikit-learn-logo.png" style="width: 30%;">](https://scikit-learn.org/)
 
 </div>
 </div>
@@ -1004,6 +1003,12 @@ JOSS logo licensed [CC-BY-4.0](https://github.com/openjournals/digital-assets)
 
 </li>
 </ul>
+
+<div class="bottom-center bottom-dark" style="margin-top: 7%">
+
+These slides (including links to everything) are available on my website
+
+</div>
 
 </div>
 </div>
