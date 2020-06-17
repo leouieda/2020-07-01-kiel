@@ -570,6 +570,36 @@ Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.
 
 ---
 
+<!-- .slide: data-background-image="img/ferguson-modelling-reproduction.jpg" data-background-size="contain" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+Chawla (2020) | doi:[10.1038/d41586-020-01685-y](https://doi.org/10.1038/d41586-020-01685-y)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="img/ferguson-modelling-reproduction.jpg" data-background-opacity="0.2" data-background-color="#ffffff" data-background-size="contain" -->
+
+<div class="r-stretch quote">
+
+"Influential model judged reproducible —
+<br>
+although software engineers called its code
+<br>
+'horrible' and 'a buggy mess'."
+
+</div>
+
+<div class="bottom-right bottom-dark">
+
+Chawla (2020) | doi:[10.1038/d41586-020-01685-y](https://doi.org/10.1038/d41586-020-01685-y)
+
+</div>
+
+---
+
 <div class="centered">
 <div>
 
