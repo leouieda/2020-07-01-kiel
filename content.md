@@ -11,9 +11,9 @@
 <span style="margin: 0 20px"></span>
 [<i class="fab fa-twitter fa-small"></i> @leouieda](https://twitter.com/leouieda)
 
-Institute of Geophysics and Geoinformatics, Technische Universität Bergakademie Freiberg
+Departamento de Geofísica, IAG, Universidade de São Paulo
 
-4 June 2020
+18 June 2020
 
 <div class="container">
 <div class="col-left">
