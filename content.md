@@ -552,19 +552,32 @@ Emphasis are my own.
 
 ---
 
+<!-- .slide: data-background-image="img/ferguson-modelling-code-github.jpg" -->
+
+<div class="r-stretch bottom-left bottom-dark">
+
+Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165)
+
+</div>
+
+---
+
 <!-- .slide: data-background-image="img/ferguson-modelling-code-github.jpg" data-background-opacity="0.5" data-background-color="#000000" -->
 
 <div class="r-stretch quote">
 
-"We, the undersigned software engineers, call for any papers
+"We, the undersigned software engineers,
 <br>
-based on this codebase to be immediately retracted"
+call for **any papers** based on this codebase
+<br>
+to be immediately **retracted**"
 
 </div>
 
 <div class="bottom-left bottom-dark">
 
-Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165)
+Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165).
+Emphasis are my own.
 
 </div>
 
@@ -584,7 +597,7 @@ Chawla (2020) | doi:[10.1038/d41586-020-01685-y](https://doi.org/10.1038/d41586-
 
 <div class="r-stretch quote">
 
-"Influential model judged reproducible —
+"Influential model **judged reproducible** —
 <br>
 although software engineers called its code
 <br>
@@ -594,7 +607,8 @@ although software engineers called its code
 
 <div class="bottom-right bottom-dark">
 
-Chawla (2020) | doi:[10.1038/d41586-020-01685-y](https://doi.org/10.1038/d41586-020-01685-y)
+Chawla (2020) | doi:[10.1038/d41586-020-01685-y](https://doi.org/10.1038/d41586-020-01685-y).
+Emphasis are my own.
 
 </div>
 
