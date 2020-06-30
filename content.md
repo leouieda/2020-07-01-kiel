@@ -552,37 +552,6 @@ Emphasis are my own.
 
 ---
 
-<!-- .slide: data-background-image="img/ferguson-modelling-code-github.jpg" -->
-
-<div class="r-stretch bottom-left bottom-dark">
-
-Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165)
-
-</div>
-
----
-
-<!-- .slide: data-background-image="img/ferguson-modelling-code-github.jpg" data-background-opacity="0.5" data-background-color="#000000" -->
-
-<div class="r-stretch quote">
-
-"We, the undersigned software engineers,
-<br>
-call for **any papers** based on this codebase
-<br>
-to be immediately **retracted**"
-
-</div>
-
-<div class="bottom-left bottom-dark">
-
-Comment in the code repository on GitHub [mrc-ide/covid-sim#165](https://github.com/mrc-ide/covid-sim/issues/165).
-Emphasis are my own.
-
-</div>
-
----
-
 <!-- .slide: data-background-image="img/ferguson-modelling-reproduction.jpg" data-background-size="contain" -->
 
 <div class="r-stretch bottom-right bottom-dark">
@@ -897,7 +866,7 @@ Equivalent-sources on<br>large data:
 * Scale in the cloud ([Pangeo](https://pangeo.io/))
 
 </div>
-<div class="col-right" style="text-align: center;">
+<div class="col-right fragment" style="text-align: center;">
 
 Built on open-source:
 
@@ -963,14 +932,41 @@ JOSS logo licensed [CC-BY-4.0](https://github.com/openjournals/digital-assets)
 
 <!-- .slide: data-background-image="img/agu2018workshop.jpg" data-background-opacity="0.25" data-background-color="#000000" -->
 
-## Train in best practices
+## Training
 
 * [Software Carpentry](https://software-carpentry.org)
 * [AGU Workshops](https://github.com/agu-ossi)
 * [Software Sustainability Institute (SSI)](https://www.software.ac.uk/)
 * [US Research Software Sustainability Institute (URSSI)](http://urssi.us/)
 * [Better Scientific Software](https://bssw.io/)
-* Contribute to a project (code, docs, examples, etc)
+
+---
+
+<!-- .slide: data-background-color="#111111"  -->
+
+## Connect
+
+Find your peers. Join online communities.
+
+<div class="fragment">
+
+<img src="img/swung_logo_vector.svg" style="width: 50%">
+
+"*The place for scientists that like rocks and computers*"
+
+[softwareunderground.org](https://softwareunderground.org/)
+
+</div>
+
+---
+
+## Contribute to a project
+
+* **Not just about code**
+* Documentation and reporting bugs
+* Join the conversation (answer questions, etc)
+* Look projects with [Contributing Guides](https://github.com/fatiando/contributing/blob/master/CONTRIBUTING.md)
+* **Best way to learn** software development
 
 ---
 
@@ -1008,7 +1004,7 @@ JOSS logo licensed [CC-BY-4.0](https://github.com/openjournals/digital-assets)
 </li>
 <li class="fragment">
 
-**Value good software** <br> *with credit, money, and time*
+**Value good software** <br> *with credit, funding, and time*
 
 </li>
 </ol>
