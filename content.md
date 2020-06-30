@@ -11,9 +11,9 @@
 <span style="margin: 0 20px"></span>
 [<i class="fab fa-twitter fa-small"></i> @leouieda](https://twitter.com/leouieda)
 
-Departamento de Geofísica, IAG, Universidade de São Paulo
+Christian-Albrechts-Universität zu Kiel, Germany
 
-18 June 2020
+1 July 2020
 
 <div class="container">
 <div class="col-left">
